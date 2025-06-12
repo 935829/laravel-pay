@@ -1,0 +1,12 @@
+{
+  "name": "node-pay",
+  "version": "1.0.0",
+  "description": "Node.js port of yansongda/laravel-pay for use with Nuxt.js",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": ["alipay", "wechat", "pay", "node", "nuxt"],
+  "author": "yansongda",
+  "license": "MIT"
+}
